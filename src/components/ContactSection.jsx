@@ -103,9 +103,6 @@ export const ContactSection = () => {
                   <XIcon />
                 </a>
                 <a href="#" target="_blank">
-                  <XIcon />
-                </a>
-                <a href="#" target="_blank">
                   <FacebookIcon />
                 </a>
                 <a href="#" target="_blank">
